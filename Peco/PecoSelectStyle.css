@@ -75,7 +75,7 @@ a:nth-child(5){
   transform:scale(1);
 }
 a:nth-child(5) div{
-  background-image: url('img/Peco.jpg');
+  background-image: url('img/peco.jpg');
 }
 span{
   position:relative;
