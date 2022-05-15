@@ -68,7 +68,7 @@ a:nth-child(3){
 }
 a:nth-child(3) div{
   background-image:url('img/Hiyori/LeftDown.jpg');
-  background-position: right 100% bottom 20%;
+  background-position: right 0% bottom 120%;
 }
 a:nth-child(4){
   border-radius:0 0 40vmin 0;
