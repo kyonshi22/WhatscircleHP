@@ -11,7 +11,7 @@ body{
 
 @media only screen and (min-width:981px) {
 body{
-	background-image: url('img/Asuka/AsukaSelectBack.jpg');
+	background-image: url('img/Asuka/AsukaSelectBack.png');
 	background-repeat: no-repeat center center;
 	background-size: cover;
 	box-shadow: inset 0 0 20vmin 0 #585247;
