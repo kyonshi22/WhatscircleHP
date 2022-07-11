@@ -154,15 +154,10 @@ section h2 span {
 	margin: 0 auto 5px;
 }
 
-.col3 li{
-	line-height: 2.0;
-}
-
 .col3 .img{
 	padding: 80px 50px;
-	margin-bottom: 40px;
-	line-height: 0 !important;
-	background: #f6f6f6;
+	margin-bottom: 20px;
+	background: #ffffffS;
 }
 
 #sec04_02{
